@@ -15,8 +15,9 @@ you must set its CustomModelData in its NBT.
 | 2                     | Wooden     |
 | 3                     | Golden     |
 | 4                     | Stone      |
-| 5                     | Diamond    |
-| 6                     | Netherite  |
+| 5                     | Iron       |
+| 6                     | Diamond    |
+| 7                     | Netherite  |
 
 For example, to get a shield that
 looks like a wooden sword, you must run this command:
