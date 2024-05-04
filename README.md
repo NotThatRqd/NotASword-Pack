@@ -10,19 +10,13 @@ This is only a resource pack, the shield is still a shield, it just makes
 the shield look like a sword. In order to make the shield look like a sword,
 you must set its CustomModelData in its NBT.
 
-|-----------------------|------------|
 | CustomModelData value | Sword type |
 |-----------------------|------------|
 | 2                     | Wooden     |
-|-----------------------|------------|
 | 3                     | Golden     |
-|-----------------------|------------|
 | 4                     | Stone      |
-|-----------------------|------------|
 | 5                     | Diamond    |
-|-----------------------|------------|
 | 6                     | Netherite  |
-|-----------------------|------------|
 
 For example, to get a shield that
 looks like a wooden sword, you must run this command:
