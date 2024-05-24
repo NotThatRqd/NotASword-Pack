@@ -25,3 +25,5 @@ looks like a wooden sword, you must run this command:
 ```
 /give @s minecraft:shield{"CustomModelData": 2}
 ```
+
+![image](https://github.com/NotThatRqd/NotASword-Pack/assets/67846317/1a519920-8b32-498b-b4c2-a81668615207)
